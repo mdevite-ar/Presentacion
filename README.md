@@ -1,5 +1,3 @@
-# Presentacion
-
 👋 Hola, soy Marcelo Devite  
 
 Soy estudiante en el programa **ETH Kipu**, donde estoy dando mis primeros pasos en el mundo del desarrollo y el ecosistema **Web3**.  
@@ -23,7 +21,7 @@ Me interesa aprender cómo la tecnología blockchain puede crear soluciones abie
 
 ## 📫 Cómo contactarme
 - ✉️ Email: **md2705@gmail.com**  
-- 🐙 GitHub: [github.com/TU-USUARIO](https://github.com/mdevite-ar)  
+- 🐙 GitHub:https://github.com/mdevite-ar  
 
 
 ✨ *“El futuro de la web es abierto, colaborativo y descentralizado. Estoy aquí para ser parte de ese cambio.”*
